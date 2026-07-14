@@ -132,3 +132,4 @@ def test_delete_user():
             {"email": test_email},
         )
         connection.commit()
+
